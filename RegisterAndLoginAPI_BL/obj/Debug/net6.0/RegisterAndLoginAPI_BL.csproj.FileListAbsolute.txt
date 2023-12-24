@@ -1,0 +1,15 @@
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\bin\Debug\net6.0\RegisterAndLoginAPI_BL.deps.json
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\bin\Debug\net6.0\RegisterAndLoginAPI_BL.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\bin\Debug\net6.0\RegisterAndLoginAPI_BL.pdb
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.AssemblyInfoInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.AssemblyInfo.cs
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.csproj.CoreCompileInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\refint\RegisterAndLoginAPI_BL.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.pdb
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\ref\RegisterAndLoginAPI_BL.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\bin\Debug\net6.0\RegisterAndLoginAPI_DAL.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\bin\Debug\net6.0\RegisterAndLoginAPI_DAL.pdb
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.csproj.AssemblyReference.cache
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.csproj.CopyComplete
