@@ -23,5 +23,13 @@ namespace RegisterAndLogin.Controllers
            return _userService.Register(userDto);
         }
 
+        [HttpPost("login")]
+        public ActionResult<UserResponseDTO> Login([FromForm] string email, [FromForm] string password) 
+        {
+            var response = _userService.Login(email, password);
+            if (response.Status == Status.NOT_FOUND) return BadRequest("user not found");
+            if(response.Status == Status.INVALID) return Unauthorized("Email or password aren't correct");
+            return Ok(response);
+        }
     }
 }
