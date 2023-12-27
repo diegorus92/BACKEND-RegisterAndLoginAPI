@@ -10,6 +10,7 @@ namespace RegisterAndLoginAPI_BL.Services
     public interface IUserService
     {
         public string Register(UserDTO userDto);
+        public UserResponseDTO Login(string email, string password);
         
     }
 }
