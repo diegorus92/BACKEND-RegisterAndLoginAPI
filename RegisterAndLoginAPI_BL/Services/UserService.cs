@@ -20,11 +20,13 @@ namespace RegisterAndLoginAPI_BL.Services
     {
         private readonly Context _context;
         private readonly IConfiguration _configuration;
+        private readonly SymmetricSecurityKey _key;
 
         public UserService(Context context, IConfiguration configuration) 
         {
             _context = context;
             _configuration = configuration;
+            _key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["TokenKey"]));
         }
 
         //TEST Pass: 1234
@@ -60,6 +62,13 @@ namespace RegisterAndLoginAPI_BL.Services
             return new UserResponseDTO{ UserName = user.NickName, Token = token , Status = Status.OK};
         }
 
+        public ICollection<User>? GetUsers()
+        {
+            return _context.Users.ToList();
+        }
+
+
+
 
 
         //PRIVATED METHODS//////
@@ -94,8 +103,7 @@ namespace RegisterAndLoginAPI_BL.Services
                 new Claim(ClaimTypes.Role, user.Rol)
             };
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["TokenKey"]));
-            var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
+            var credentials = new SigningCredentials(_key, SecurityAlgorithms.HmacSha256Signature);
 
             var token = new JwtSecurityToken(
                     claims: claims,

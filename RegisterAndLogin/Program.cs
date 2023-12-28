@@ -6,6 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 using Swashbuckle.AspNetCore.Filters;
+using Microsoft.AspNetCore.Authentication.Certificate;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,7 +18,7 @@ builder.Services.AddDbContext<Context>(
     );
 builder.Services.AddScoped<DbContext, Context>();
 
-builder.Services.AddScoped<IUserService, UserService>();
+
 
 
 builder.Services.AddControllers();
@@ -25,7 +26,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen( options =>
     {
-        options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+        options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
         {
             In = ParameterLocation.Header,
             Description = "Insert JWT with 'Bearer' string into field",
@@ -46,6 +47,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
         ValidateAudience = false
     };
 });
+
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 

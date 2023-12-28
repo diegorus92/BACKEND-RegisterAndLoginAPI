@@ -13,3 +13,4 @@ D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\Reg
 D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\bin\Debug\net6.0\RegisterAndLoginAPI_DAL.pdb
 D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.csproj.AssemblyReference.cache
 D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.csproj.CopyComplete
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLoginAPI_BL\obj\Debug\net6.0\RegisterAndLoginAPI_BL.sourcelink.json

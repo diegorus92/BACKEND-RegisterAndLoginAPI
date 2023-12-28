@@ -70,3 +70,13 @@ D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\Reg
 D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\RegisterAndLoginAPI_BL.dll
 D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\RegisterAndLoginAPI_BL.pdb
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Scrutor.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\obj\Debug\net6.0\RegisterAndLogin.sourcelink.json
+D:\Diego\Varios\Proyectos de Programacion\FULLSTACK\RegisterAndLogin\Backend\RegisterAndLogin\RegisterAndLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Certificate.dll
